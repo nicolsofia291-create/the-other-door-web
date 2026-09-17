@@ -8,10 +8,15 @@ The Other Door es un proyecto de videojuego en desarrollo centrado en una histor
 **Tecnologías previstas**
 
 Blender
+
 Unity
+
 Toon Shader
+
 PBR materials
+
 Adobe / herramientas de arte visual
+
 Git + GitHub para control de versión
 
 **Estado del proyecto**
