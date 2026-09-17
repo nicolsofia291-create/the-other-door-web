@@ -22,5 +22,6 @@ Estado: prototipo / desarrollo activo
 
 **Enlaces**
 
-Página web del proyecto: https://nicolsofia291-create.github.io/the-other-door-web/
-Repositorio web: https://github.com/nicolsofia291-create/the-other-door-web
+**Página web del proyecto:** https://nicolsofia291-create.github.io/the-other-door-web/
+
+**Repositorio web:** https://github.com/nicolsofia291-create/the-other-door-web
